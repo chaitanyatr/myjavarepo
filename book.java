@@ -20,6 +20,9 @@ book1.date=bk.next();
 book1.author=bk.next();
 System.out.println("book1 details: "+"No.of pages="+book1.pages+" No.of chapters="+book1.chapters+" rating="+book1.rating+ " price="+book1.price+" date="+book1.date+" author="+book1.author);
 
+System.out.println("HI>>>>>>>>");
+
+
 Books book2=new Books();
 System.out.println("Enter book2 information:");
 book2.pages=bk.nextInt();
