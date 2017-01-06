@@ -9,6 +9,7 @@ Scanner sc=new Scanner(System.in);
 	System.out.println(ar[i]);
 	}
 	//hi
+//hello
 	}
 }
 }
